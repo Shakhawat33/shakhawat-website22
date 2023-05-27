@@ -315,7 +315,7 @@ footer p:nth-child(1){
  
 /* mobile vieww*/
 
-@media (max-width:393px){
+@media (max-width:851px){
     .hero{
         width: 314%;
     }
@@ -332,3 +332,4 @@ footer p:nth-child(1){
         width: 314%;
     }
 }
+
